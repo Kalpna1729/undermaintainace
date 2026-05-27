@@ -133,12 +133,12 @@ function Index() {
                 <ContactRow
                   icon={<Mail className="h-4 w-4" />}
                   label="Email"
-                  value="advisory@growlotus.in"
+                  value="support@growlotus.com"
                 />
                 <ContactRow
                   icon={<Phone className="h-4 w-4" />}
                   label="Phone"
-                  value="+91 00000 00000"
+                  value="+91 92666 86415"
                 />
               </div>
 
